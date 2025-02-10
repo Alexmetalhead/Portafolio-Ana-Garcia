@@ -20,7 +20,7 @@
 body{
     height: 100vh;
     box-sizing: border-box;
-    background-color: var(--color-primario);
+    background-color: #000000;
     color: var(--color-secundario);
 }
 
